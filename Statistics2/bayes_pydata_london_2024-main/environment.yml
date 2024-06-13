@@ -1,0 +1,23 @@
+name: pymc_course
+
+channels:
+ - conda-forge
+ 
+dependencies:
+- python
+- arviz
+- ipython
+- jupyterlab
+- notebook
+- ipykernel
+- numpy
+- pandas
+- patsy
+- pip
+- python-graphviz
+- pymc
+- scikit-learn
+- scipy
+- seaborn
+- pip:
+  - pybaseball
